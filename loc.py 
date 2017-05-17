@@ -1,0 +1,8 @@
+# Working but not able to generalise the concept for all the searched queries.Although getting correct for few ..
+
+from geopy.geocoders import Nominatim
+geolocator = Nominatim()
+location = geolocator.geocode("indira nagar lucknow")
+print((location.latitude, location.longitude))
+print(location.address)
+
