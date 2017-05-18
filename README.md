@@ -8,7 +8,9 @@ For getting the coordinates I have used geopy ...
 Modules 
 ---------------------
 <code>
-	pip install geopy <br/>
+	pip install geopy 
+	</code>
+	<code>
 	pip install simplekml
 </code>
 
