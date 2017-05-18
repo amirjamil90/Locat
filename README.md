@@ -5,7 +5,6 @@ For getting the coordinates I have used geopy ...
 
  Prerequisites
 =========================
-<i> Some fundamentals of python </i><br/>
 Modules 
 ---------------------
 <code>
