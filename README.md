@@ -4,7 +4,7 @@ For getting the coordinates I have used geopy ...
 <b> Prerequisites </b>
 <i> Some fundamentals of python </i>
 <code>
-	pip install geopy
+	pip install geopy <br/>
 	pip install simplekml
 </code>
 
