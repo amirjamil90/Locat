@@ -12,8 +12,6 @@ Modules
 	</code>
 <br/>
 	<code>
-
-
 	pip install simplekml
 </code>
 
