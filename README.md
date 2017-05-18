@@ -1,5 +1,5 @@
 
-#Location Identifer And Plotter
+**Location Identifer And Plotter**
 Generalise the creating of KML files for Google Earth using simplekml.
 For getting the coordinates I have used geopy ... 
 
