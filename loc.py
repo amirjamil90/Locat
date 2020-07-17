@@ -12,5 +12,5 @@ print(location.address)
 import simplekml
 kml = simplekml.Kml()
 kml.newpoint(name="amir",coords=[(location.longitude,location.latitude)])
-kml.save("amir.kml")
+kml.save("coordinate.kml")
 
